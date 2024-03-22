@@ -33,7 +33,7 @@ FC Dallas||
 |Minnesota United FC||
 |Portland Timbers|https://www.alphamediaplayer.com/750thegame|
 |Real Salt Lake||
-|San Jose Earthquakes||
+|San Jose Earthquakes|https://www.iheart.com/live/the-spread-810-5338/|https://tunein.com/radio/La-Kaliente-1370AM-s26855/|
 |San Diego FC||
 |Seattle Sounders FC|https://950kjr.iheart.com/ OR https://933kjr.iheart.com/|
 |St. Louis City SC|https://www.audacy.com/y98|

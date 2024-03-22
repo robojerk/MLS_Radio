@@ -16,7 +16,7 @@ A collection of radio channels that provide game coverage.
 |New England Revolution||
 |New York City FC||
 |New York Red Bulls|https://www.newyorkredbulls.com/media/radio|
-|Orlando City SC||
+|Orlando City SC|https://www.iheart.com/live/real-radio-1041-609/|
 |Philadelphia Union|https://975thefanatic.com/|
 |Toronto FC||
 

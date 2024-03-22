@@ -35,6 +35,6 @@ FC Dallas||
 |Real Salt Lake||
 |San Jose Earthquakes||
 |San Diego FC||
-|Seattle Sounders FC|https://950kjr.iheart.com/ OR |
+|Seattle Sounders FC|https://950kjr.iheart.com/ OR https://933kjr.iheart.com/|
 |St. Louis City SC|https://www.audacy.com/y98|
 |Vancouver Whitecaps FC|https://globalnews.ca/radio/am730/|
